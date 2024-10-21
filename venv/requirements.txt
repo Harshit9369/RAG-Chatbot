@@ -1,0 +1,10 @@
+PyMuPDF
+sentence-transformers
+streamlit
+pinecone-client
+spacy 
+fastapi
+uvicorn
+torch
+pydantic
+python-dotenv
